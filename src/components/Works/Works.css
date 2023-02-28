@@ -1,4 +1,5 @@
 .container-works{
     height: 100vh;
     background-color: blueviolet;
+    /* scroll-snap-align: center; */
 }

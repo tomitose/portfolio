@@ -1,4 +1,5 @@
 .container-hero{
     height: 100vh;
-    background-color: aquamarine;
+    /* background-color: aquamarine; */
+    /* scroll-snap-align: center; */
 }

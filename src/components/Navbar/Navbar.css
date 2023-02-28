@@ -1,0 +1,10 @@
+.container-nav{
+    display: flex;
+    justify-content: center;
+}
+
+.nav{
+    width: 1400px;
+    background-color: blueviolet;
+}
+

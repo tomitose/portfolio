@@ -1,4 +1,18 @@
 .App {
   height: 100vh;
-  background-color: rebeccapurple;
+  scroll-snap-type: y mandatory;
+  scroll-behavior: smooth;
+  overflow-y: auto;
+  scrollbar-width: none;
+  color: white;
+  background: rgb(61,21,96);
+  background: radial-gradient(circle, rgba(61,21,96,1) 10%, rgba(40,0,74,1) 72%, rgba(60,0,111,1) 100%);
 }
+.App::-webkit-scrollbar{
+  display:none
+  }
+    
+  
+  
+  
+  

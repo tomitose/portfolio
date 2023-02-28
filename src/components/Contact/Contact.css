@@ -1,4 +1,5 @@
 .container-contact{
     height: 100vh;
     background-color: antiquewhite;
+    /* scroll-snap-align: center; */
 }

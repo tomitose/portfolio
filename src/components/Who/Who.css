@@ -1,4 +1,5 @@
 .container-who{
     height: 100vh;
     background-color: beige;
+    /* scroll-snap-align: center; */
 }
