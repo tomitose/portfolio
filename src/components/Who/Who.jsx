@@ -4,7 +4,7 @@ import './Who.css';
 
 const Who = () => {
   return (
-    <div className="container-who">Who</div>
+    <div className="container-who">Este es el componente Who</div>
   )
 }
 
